@@ -1,0 +1,32 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: cadetblue;
+}
+
+.title{
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 5em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.text{
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+    width: auto;
+    width: auto;
+    line-height: 1.2;
+}
+
+.image{
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+    padding: 20px;
+}
